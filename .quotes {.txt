@@ -1,0 +1,10 @@
+.quotes {
+    padding: 10px;
+    text-align: center;
+    background-color: #44993280;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
